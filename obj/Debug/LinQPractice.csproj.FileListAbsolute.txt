@@ -1,0 +1,8 @@
+D:\Univalle\Progra III\LinQPractice\bin\Debug\LinQPractice.exe.config
+D:\Univalle\Progra III\LinQPractice\bin\Debug\LinQPractice.exe
+D:\Univalle\Progra III\LinQPractice\bin\Debug\LinQPractice.pdb
+D:\Univalle\Progra III\LinQPractice\obj\Debug\LinQPractice.csproj.AssemblyReference.cache
+D:\Univalle\Progra III\LinQPractice\obj\Debug\LinQPractice.csproj.SuggestedBindingRedirects.cache
+D:\Univalle\Progra III\LinQPractice\obj\Debug\LinQPractice.csproj.CoreCompileInputs.cache
+D:\Univalle\Progra III\LinQPractice\obj\Debug\LinQPractice.exe
+D:\Univalle\Progra III\LinQPractice\obj\Debug\LinQPractice.pdb
